@@ -1,0 +1,314 @@
+{
+  "events":[
+    {
+      "id":1,
+      "name":"Ricky",
+      "x":14.5,
+      "y":15.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"cr.png",
+            "spriteIndex":0,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":true,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ciao Sivi! Siamo in un videogioco! Pheegata! Si lo so che sei piú piccola di me, ma ho avuto dei problemini con la grafica ieri sera! Ahah!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Questo é il mio giardino di Guildford! Avrei voluto tanto portarti qui a vederlo con me :)"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Vorrei dirti tante cose..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ma non sono ancora pronto!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Sicuramente te le diró tra oggi e domani..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ti adoro, lo sai? ^^"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ci sentiremo presto... Per adesso, abbi fede, e dai una occhiata un po' in giro!"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"cr.png",
+            "spriteIndex":0,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":true,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ciao Sivi! Non sono ancora pronto, riprova tra un po'! ^^"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"cr.png",
+            "spriteIndex":0,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":true,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "11/06/2017 @ 22.55",
+                "Ciao Sivi!",
+                "Alla fine non sono riuscito a completare quello che volevo qui... "
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"PlayMusic",
+              "slot":{
+                "jsonClass":"IntParameter",
+                "constant":0,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              },
+              "spec":{
+                "sound":"marle-memories-of-crono-.mid",
+                "volume":1.0,
+                "pitch":1.0
+              },
+              "loop":true,
+              "fadeDuration":0.5
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ma in compenso, abbiamo vissuto dei momenti che nemmeno avrei pensato di poter piú vivere insieme a qualcuno...",
+                "Ho aspettato tanto questo momento... É stato meraviglioso passarlo insieme a te."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Non voglio dimenticare quello che é successo. Non posso. Ogni cosa, ha preso posto dentro di me come se fosse lí da sempre."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Mi mancherai..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ti penseró spesso..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Aspetterò il giorno in cui finalmente mi dirai che vuoi stare con me. In cui non avrai piú dubbi..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "E riempiró tutti gli altri del giallo che ho trovato nella nostra stanza... Nella via dei baci...  Nella nostra parmigiana... Nella nostra cheesecake... Nel nostro modo speciale di parlarci prima di andare a letto... Nel modo speciale in cui ci capiamo e facciamo le cose..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ti amo Silvia."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "A presto..."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "sprite":{
+            "name":"cr.png",
+            "spriteIndex":0,
+            "dir":0,
+            "step":0
+          },
+          "height":1,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "Ti amo Sivi."
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            },
+            {
+              "jsonClass":"ShowText",
+              "lines":[
+                "A presto ^^"
+              ],
+              "useCharacterFace":false,
+              "characterId":0
+            }
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    },
+    {
+      "id":2,
+      "name":"Event00002",
+      "x":4.5,
+      "y":17.5,
+      "states":[
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":5,
+          "animationType":0,
+          "runOnceThenIncrementState":true,
+          "cmds":[
+            {
+              "jsonClass":"PlayMusic",
+              "slot":{
+                "jsonClass":"IntParameter",
+                "constant":0,
+                "valueTypeId":0,
+                "localVariable":"",
+                "globalVariable":""
+              },
+              "spec":{
+                "sound":"1000ad.mid",
+                "volume":1.0,
+                "pitch":1.0
+              },
+              "loop":true,
+              "fadeDuration":0.5
+            }
+          ]
+        },
+        {
+          "conditions":[
+            
+          ],
+          "height":0,
+          "affixDirection":false,
+          "trigger":1,
+          "animationType":0,
+          "runOnceThenIncrementState":false,
+          "cmds":[
+            
+          ]
+        }
+      ],
+      "eventClassId":-1,
+      "params":[
+        
+      ]
+    }
+  ]
+}
